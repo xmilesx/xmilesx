@@ -19,4 +19,4 @@ I ran BBCDC, a DC design-build firm, from 2016 on. We did historic renovation, u
 
 Remote work where construction knowledge meets software: deployment, customer success, solutions and subject matter expert roles at construction tech and AI companies.
 
-Washington, DC · miles.gray@me.com
+Washington, DC
