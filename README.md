@@ -11,7 +11,6 @@ I ran BBCDC, a DC design-build firm, from 2016 on. We did historic renovation, u
 | [chief-of-staff-agents](https://github.com/xmilesx/chief-of-staff-agents) | A template for running a one-person business with a staff of AI agents: one chat to talk to, scheduled jobs that build, a separate reviewer that grades, and a budget that holds. |
 | [plomada](https://github.com/xmilesx/plomada) | The lead engine and six AI skills I used to run my firm: ballpark pricing, lead scoring, schedules with DC permit milestones, job costing, takeoff and zoning feasibility. |
 | [construction-doc-reader](https://github.com/xmilesx/construction-doc-reader) | An AI reader that turns sub quotes, invoices and change orders into one record, with the flags a GC should push back on. Runs on five real documents from my jobs. |
-| [writing-system](https://github.com/xmilesx/writing-system) | The writing method my agents run on every draft: 25 tests, a fact ledger, a hostile editor pass and an AI-tell scan. |
 
 ## What I'm looking for
 
