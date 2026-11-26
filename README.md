@@ -12,7 +12,6 @@ I ran BBCDC, a DC design-build firm, from 2016 on. We did historic renovation, u
 | [plomada](https://github.com/xmilesx/plomada) | The lead engine and six AI skills I used to run my firm: ballpark pricing, lead scoring, schedules with DC permit milestones, job costing, takeoff and zoning feasibility. |
 | [construction-doc-reader](https://github.com/xmilesx/construction-doc-reader) | An AI reader that turns sub quotes, invoices and change orders into one record, with the flags a GC should push back on. Runs on five real documents from my jobs. |
 | [dc-playbook-builder](https://github.com/xmilesx/dc-playbook-builder) | A production system for interactive DC permitting playbooks: the builder script, the first playbook and a list of 45 more. |
-| [job-hunt-kit](https://github.com/xmilesx/job-hunt-kit) | Scans company job boards directly and builds tailored resumes and cover letters from one source file. |
 | [writing-system](https://github.com/xmilesx/writing-system) | The writing method my agents run on every draft: 25 tests, a fact ledger, a hostile editor pass and an AI-tell scan. |
 
 ## What I'm looking for
